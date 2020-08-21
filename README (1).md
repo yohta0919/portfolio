@@ -24,6 +24,4 @@ HuluやNetflix、Amazonプライムなどのどこでそれを視聴できるの
 
 
 ### 機能一覧
-<https://docs.google.com/spreadsheets/d/1Mh2fH7jiGb6smpbfQq7Rgg4POLSHZgeexiHv49difgM/edit#gid=0>
-
-
+https://docs.google.com/spreadsheets/d/1Mh2fH7jiGb6smpbfQq7Rgg4POLSHZgeexiHv49difgM/edit?usp=sharing
